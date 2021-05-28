@@ -10,9 +10,7 @@ Software Developer
 - Surveys IT equipment/software/telecommunication needs, and coordinate replacement logistics to OI&T
 - Collect data/data entry/monitor databases such as monthly/periodical reports of program analytics, and quarterly reviews of certification of least privilege access
 - Coordinate administrative functions of Nursing service’s new employee orientation (NEO); such as requesting new user access and menu modifications
-- Provide IT application and network security support to Nursing Health Informatics
-- Provide expert knowledge of IT programs and operations
-- Perform IT support such as coordinate program installs, evaluation of program issues, training new and current employees, and assure conformance with Medical Center policies and procedures
+- Provide IT application and network security support to Nursing Education department
 
 ### Software Engineer, RoboLabs Inc.;Pompano Beach, FL. — Jan. 2014 - Sept. 2014
 
