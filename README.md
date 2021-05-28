@@ -1,7 +1,8 @@
 # Hernando Hernandez 
-Software Developer
+## Software Developer
 
 ## OBJECTIVE 
+
 
 ## PROFESSIONAL EXPERIENCE
 ### ADPAC, Dept. of Veterans Affairs; San Francisco, CA. — Aug. 2016 - Aug. 2017
@@ -16,13 +17,9 @@ Software Developer
 - Utilize quality assurance standards for Iridium GPS technologies using MS Excel as test case platform
 - Hard wiring industrial CNC with MicroStep drivers
 
-
 ## SKILLS
 ### LANGUAGES
-- HTML5 | CSS3 | JAVASCRIPT | C# | SQL
-
-### FULL STACK
-- MongoDB | ExpressJS | ReactJS | NodeJS
+- HTML5 | CSS3 | JAVASCRIPT | C# | SQL | MongoDB | ExpressJS | ReactJS | NodeJS
 
 ## EDUCATION
 DeVry University, Miramar, FL. — B.S. Computer Information Systems, 2014
