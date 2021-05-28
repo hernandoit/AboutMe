@@ -7,8 +7,8 @@ Software Developer
 ### ADPAC, Dept. of Veterans Affairs; San Francisco, CA. — Aug. 2016 - Aug. 2017
 - Computer Asst. to the Chief of Nursing Informatics providing administrative, technical, and clerical support with primary duties serving as the Automated Data Processing Application Coordinator (ADPAC)
 - Liaison between services and officers such as the Office of Information Security Officer (ISO) and the Office of Information and Technology (OI&T)
-- Coordinates quarterly review and certification of least privilege access
-- Surveys IT equipment/software/telecommunications needs ,and coordinates replacement logistics to OI&T
+- Coordinates quarterly reviews and certification of least privilege access
+- Surveys IT equipment/software/telecommunication needs, and coordinate replacement logistics to OI&T
 - Collect data/data entry/monitor databases such as monthly/periodical reports of program analytics
 - Coordinate administrative functions of Nursing service’s new employee orientation (NEO)
 - Provide IT application and network security support to Nursing Health Informatics
