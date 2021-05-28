@@ -2,7 +2,7 @@
 ## Software Developer
 
 ## OBJECTIVE 
-
+Entry Level Programmer with a ‘can do’ attitude, independent working habits, and an analytical mindset seeking to apply academic and professional background towards launching a successful career as a Software Developer.  In an environment where my experience in analysis, design, implementation and testing of software systems would contribute to a companies projects success.  Bi-Lingual; ability to speak with both technical and non technical users.
 
 ## PROFESSIONAL EXPERIENCE
 ### ADPAC, Dept. of Veterans Affairs; San Francisco, CA. — Aug. 2016 - Aug. 2017
