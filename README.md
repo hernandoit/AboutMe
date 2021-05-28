@@ -13,6 +13,9 @@ Software Developer
 - Provide IT application and network security support to Nursing Education department; such as coordinate program installs, evaluation of program issues, training new and current employees, and assure conformance with Medical Center policies and procedures
 
 ### Software Engineer, RoboLabs Inc.;Pompano Beach, FL. — Jan. 2014 - Sept. 2014
+- Assembling server for New York Stock Exchange (NYSE) for financial application (Options Flash); analyzing unusual trade options coming in at 4.5gbps
+- Utilize quality assurance standards for Iridium GPS technologies using MS Excel as test case platform
+- Hard wiring industrial CNC with MicroStep drivers
 
 
 ## SKILLS
