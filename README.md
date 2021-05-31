@@ -18,7 +18,7 @@ Entry Level Programmer with a ‘can do’ attitude, independent working habits,
 
 ## SKILLS
 ### LANGUAGES
-- HTML5 | CSS3 | JAVASCRIPT | C# | SQL | MongoDB | ExpressJS | ReactJS | NodeJS
+- HTML5 | CSS3 | Javascript | C# | SQL | MongoDB | ExpressJS | ReactJS | NodeJS
 
 ## EDUCATION
 DeVry University, Miramar, FL. — B.S. Computer Information Systems, 2014
