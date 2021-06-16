@@ -1,8 +1,12 @@
 # Hernando Hernandez 
-## Software Engineer
 
 ## OBJECTIVE 
 Entry Level Programmer with a ‘can do’ attitude, independent working habits, and an analytical mindset seeking to apply academic and professional background towards launching a successful career as a Software Developer.  In an environment where my experience in analysis, design, implementation and testing of software systems would contribute to a companies projects success.  Bi-Lingual; ability to speak with both technical and non technical users.
+
+
+## SKILLS
+HTML5 | CSS3 | Javascript | MongoDB | ExpressJS | ReactJS | NodeJS
+
 
 ## PROFESSIONAL EXPERIENCE
 ### ADPAC
@@ -20,8 +24,6 @@ RoboLabs Inc.; Pompano Beach, FL. — Jan. 2014 - Sept. 2014
 - Utilize quality assurance standards for Iridium GPS technologies using MS Excel as test case platform
 - Hard wiring industrial CNC with MicroStep drivers
 
-## SKILLS
-HTML5 | CSS3 | Javascript | MongoDB | ExpressJS | ReactJS | NodeJS
 
 ## EDUCATION
 General Assemb.ly — Software Engineer Immersive, 2021
