@@ -8,6 +8,12 @@ Entry Level Programmer with a ‘can do’ attitude, independent working habits,
 HTML5 | CSS3 | Javascript | MongoDB | ExpressJS | ReactJS | NodeJS
 
 
+## EDUCATION
+General Assemb.ly — Software Engineer Immersive, 2021
+
+DeVry University — B.S. Computer Information Systems, 2014
+
+
 ## PROFESSIONAL EXPERIENCE
 ### ADPAC
 Dept. of Veterans Affairs; San Francisco, CA. — Aug. 2016 - Aug. 2017
@@ -24,10 +30,5 @@ RoboLabs Inc.; Pompano Beach, FL. — Jan. 2014 - Sept. 2014
 - Utilize quality assurance standards for Iridium GPS technologies using MS Excel as test case platform
 - Hard wiring industrial CNC with MicroStep drivers
 
-
-## EDUCATION
-General Assemb.ly — Software Engineer Immersive, 2021
-
-DeVry University — B.S. Computer Information Systems, 2014
 
 
