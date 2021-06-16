@@ -21,4 +21,8 @@ Entry Level Programmer with a ‘can do’ attitude, independent working habits,
 - HTML5 | CSS3 | Javascript | C# | SQL | MongoDB | ExpressJS | ReactJS | NodeJS
 
 ## EDUCATION
-DeVry University, Miramar, FL. — B.S. Computer Information Systems, 2014
+General Assemb.ly - Software Engineer Immersive, 2021
+
+DeVry University — B.S. Computer Information Systems, 2014
+
+
