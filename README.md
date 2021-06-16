@@ -17,7 +17,6 @@ Entry Level Programmer with a ‘can do’ attitude, independent working habits,
 - Hard wiring industrial CNC with MicroStep drivers
 
 ## SKILLS
-### LANGUAGES
 - HTML5 | CSS3 | Javascript | MongoDB | ExpressJS | ReactJS | NodeJS
 
 ## EDUCATION
