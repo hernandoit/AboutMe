@@ -1,23 +1,29 @@
 # Hernando Hernandez 
 
-## OBJECTIVE 
+> OBJECTIVE 
+```
+Software Engineer with over 2 years of experience in front-end and back-end development. 
+Versatility in quickly adapting to new coding conventions is combined with a 'can-do' attitude. 
+Independent working habits, an analytical mindset, and the versatility to resolve multifaceted 
+issues despite the challenges of changing priorities, imminent deadlines, and differing team 
+agendas. Characterized throughout employment and academic life as a self-starter; an individual 
+committed to delivering solutions and possessing the ability to apply complex technologies that 
+translate business needs into a practical reality; Bilingual.
+```
 
-Software Engineer with over 2 years of experience in front-end and back-end development. Versatility in quickly adapting to new coding conventions is combined with a 'can-do' attitude. Independent working habits, an analytical mindset, and the versatility to resolve multifaceted issues despite the challenges of changing priorities, imminent deadlines, and differing team agendas. Characterized throughout employment and academic life as a self-starter; an individual committed to delivering solutions and possessing the ability to apply complex technologies that translate business needs into a practical reality; Bilingual.
-
-
-## SKILLS
+### SKILLS
 ```md
 HTML5 | CSS3 | Javascript | MongoDB | ExpressJS | ReactJS | NodeJS
 ```
 
-## EDUCATION
+### EDUCATION
 ```md
 General Assemb.ly — Software Engineering Immersive, 2021
 
 DeVry University — B.S. Computer Information Systems, 2014
 ```
 
-## PROFESSIONAL EXPERIENCE
+### PROFESSIONAL EXPERIENCE
 ### ADPAC
 
 *Dept. of Veterans Affairs  San Francisco, CA. — Aug. 2016 - Aug. 2017*
