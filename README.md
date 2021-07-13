@@ -5,13 +5,13 @@ Entry Level Programmer with a ‘can do’ attitude, independent working habits,
 
 
 ## SKILLS
-HTML5 | CSS3 | Javascript | MongoDB | ExpressJS | ReactJS | NodeJS
+> HTML5 | CSS3 | Javascript | MongoDB | ExpressJS | ReactJS | NodeJS
 
 
 ## EDUCATION
-General Assemb.ly — Software Engineering Immersive, 2021
+> General Assemb.ly — Software Engineering Immersive, 2021
 
-DeVry University — B.S. Computer Information Systems, 2014
+> DeVry University — B.S. Computer Information Systems, 2014
 
 
 ## PROFESSIONAL EXPERIENCE
