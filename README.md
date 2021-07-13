@@ -26,6 +26,7 @@ DeVry University — B.S. Computer Information Systems, 2014
 ### PROFESSIONAL EXPERIENCE
 
 Program Support Assistant (ADPAC)
+
 *Dept. of Veterans Affairs  San Francisco, CA. — Aug. 2016 - Aug. 2017*
 ```
 - Computer Asst. to the Chief of Nursing Informatics providing administrative, technical, and clerical 
@@ -43,6 +44,7 @@ procedures
 ```
 
 Software Engineer
+
 *RoboLabs Inc.  Pompano Beach, FL. — Jan. 2014 - Sept. 2014*
 ```
 - Assembling server for New York Stock Exchange (NYSE) for financial application (Options Flash); 
