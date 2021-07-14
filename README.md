@@ -25,7 +25,7 @@ DeVry University — B.S. Computer Information Systems, 2014
 
 ### PROFESSIONAL EXPERIENCE
 
-Program Support Assistant (ADPAC)
+#### Program Support Assistant (ADPAC)
 
 *Dept. of Veterans Affairs  San Francisco, CA. — Aug. 2016 - Aug. 2017*
 ```
@@ -43,7 +43,7 @@ of certification of least privilege access, and assure conformance with Medical 
 procedures
 ```
 
-Software Engineer
+#### Software Engineer
 
 *RoboLabs Inc.  Pompano Beach, FL. — Jan. 2014 - Sept. 2014*
 ```
