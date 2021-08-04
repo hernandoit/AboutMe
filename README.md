@@ -12,10 +12,8 @@ translate business needs into a practical reality; Bilingual.
 
 ### SKILLS
 
-```md
 HTML5 | CSS3 | Javascript 
 MongoDB | ExpressJS | ReactJS | NodeJS
-```
 
 ### EDUCATION
 
