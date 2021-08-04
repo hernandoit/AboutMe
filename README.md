@@ -1,7 +1,7 @@
 # Hernando Hernandez 
 
 ### SUMMARY
-```
+
 Software Engineer with over 2 years of experience in front-end and back-end development. 
 Versatility in quickly adapting to new coding conventions is combined with a 'can-do' attitude. 
 Independent working habits, an analytical mindset, and the versatility to resolve multifaceted 
@@ -10,20 +10,18 @@ agendas. Characterized throughout employment and academic life as a self-starter
 committed to delivering solutions and possessing the ability to apply complex technologies that 
 translate business needs into a practical reality; Bilingual.
 
-/// rewrite ///
-```
-
 ### SKILLS
+
 ```md
-HTML5 | CSS3 | Javascript | MongoDB | ExpressJS | ReactJS | NodeJS
+HTML5 | CSS3 | Javascript 
+MongoDB | ExpressJS | ReactJS | NodeJS
 ```
 
 ### EDUCATION
-```md
+
 General Assemb.ly — Software Engineering Immersive, 2021
 
 DeVry University — B.S. Computer Information Systems, 2014
-```
 
 ### PROFESSIONAL EXPERIENCE
 
@@ -50,7 +48,7 @@ procedures
 - Assembled server for New York Stock Exchange (NYSE) for financial application (Options Flash); 
 analyzing unusual trade options coming in at 4.5gbps
 - Utilized quality assurance standards for Iridium GPS technologies using MS Excel as test case platform
-- Hard wired industrial CNC with MicroStep X, Y, and Z drivers
+- Hard wired industrial CNC with MicroStep X, Y, and Z axis drivers
 
 
 
