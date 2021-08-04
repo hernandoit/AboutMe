@@ -49,10 +49,10 @@ procedures
 
 *RoboLabs Inc.  Pompano Beach, FL. — Jan. 2014 - Sept. 2014*
 ```
-- Assembling server for New York Stock Exchange (NYSE) for financial application (Options Flash); 
+- Assembled server for New York Stock Exchange (NYSE) for financial application (Options Flash); 
 analyzing unusual trade options coming in at 4.5gbps
-- Utilize quality assurance standards for Iridium GPS technologies using MS Excel as test case platform
-- Hard wiring industrial CNC with MicroStep drivers
+- Utilized quality assurance standards for Iridium GPS technologies using MS Excel as test case platform
+- Hard wired industrial CNC with MicroStep X, Y, and Z drivers
 ```
 
 
