@@ -2,13 +2,8 @@
 
 ### SUMMARY
 
-Software Engineer with over 2 years of experience in front-end and back-end development. 
-Versatility in quickly adapting to new coding conventions is combined with a 'can-do' attitude. 
-Independent working habits, an analytical mindset, and the versatility to resolve multifaceted 
-issues despite the challenges of changing priorities, imminent deadlines, and differing team  
-agendas. Characterized throughout employment and academic life as a self-starter; an individual 
-committed to delivering solutions and possessing the ability to apply complex technologies that 
-translate business needs into a practical reality; Bilingual.
+Software Engineer with over 2 years of experience in full stack development. 
+ Bilingual.
 
 ### SKILLS
 
