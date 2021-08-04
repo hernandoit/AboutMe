@@ -11,6 +11,13 @@ General Assemb.ly — Software Engineering Immersive, 2021
 
 DeVry University — B.S. Computer Information Systems, 2014
 
+### PROJECTS
+
+1.
+2.
+3.
+4.
+
 ### PROFESSIONAL EXPERIENCE
 
 #### Program Support Assistant (ADPAC)
