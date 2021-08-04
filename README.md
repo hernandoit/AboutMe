@@ -1,10 +1,5 @@
 # Hernando Hernandez 
 
-### SUMMARY
-
-Software Engineer with over 2 years of experience in full stack development. 
- Bilingual.
-
 ### SKILLS
 
 HTML5 | CSS3 | Javascript 
