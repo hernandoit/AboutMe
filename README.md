@@ -36,11 +36,7 @@ HTML5 | CSS3 | Javascript | jQuery | Heroku | MongoDB | ExpressJS | ReactJS | No
 
 - I make awesome strings
 - kinda like the one above
-
-
-
-
-
+- 
 
 #### `Program Support Assistant (ADPAC)`
 
