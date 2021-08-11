@@ -4,17 +4,17 @@ Hernando Hernandez
 Full-Stack Software Engineer
 ----------------------------
 
-## contact info
+### CONTACT INFO
 [Email](hernandohernandezdev@gmail.com)
 [GitHub](https://github.com/hernandoit?tab=repositories)
 [LinkedIn](https://www.linkedin.com/in/hernando-hernandez/)
 [Portfolio](https://www.hernandohernandez.info)
 
-## location
+### LOCATION
 Now developing in Central Florida; tampa area, ocala gainesville
 
 ### SKILLS
->
+
  This should be prominent and easy to find on your resume.
 List all of the skills and technologies you learned at GA, as well as your additional hard skills. You can break this into sections to indicate methodologies vs. technologies, or have an “additional skills” list of less relevant items. You can also indicate which skills are a work-in-progress.
 
@@ -40,6 +40,7 @@ MS Word | Excel | Powerpoint | WPM: 55
 ### PROFESSIONAL EXPERIENCE
 
 #### Software Engineering Immersive
+
 
 #### Program Support Assistant (ADPAC)
 
