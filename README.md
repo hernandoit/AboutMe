@@ -59,7 +59,7 @@ of certification of least privilege access, and assure conformance with Medical 
 procedures
 
 #### `Free Lancer`
-*H2Tech Solutions  Oct. 2014 - Aug. 2016*
+*H2Tech Solutions  Coconut Creek, FL. Oct. 2014 - Aug. 2016*
 
 - Manage and Maintain websites using Content Management Systems ( WordPress ) 
 - Home Automation Project using Arduino, and Raspberry Pi ( Node.js, Apache )
