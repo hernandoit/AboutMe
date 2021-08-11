@@ -2,8 +2,7 @@
 
 ### SKILLS
 
-HTML5 | CSS3 | Javascript 
-MongoDB | ExpressJS | ReactJS | NodeJS
+HTML5 | CSS3 | Javascript | Heroku | MongoDB | ExpressJS | ReactJS | NodeJS
 
 
 ### PROJECTS
