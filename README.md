@@ -1,5 +1,8 @@
-# Hernando Hernandez 
-## Full-Stack Software Engineer
+Hernando Hernandez 
+==================
+
+Full-Stack Software Engineer
+----------------------------
 
 ## contact info
 email: hernandohernandezdev@gmail.com
