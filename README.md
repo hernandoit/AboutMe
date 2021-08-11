@@ -77,12 +77,6 @@ Intro to Database Web Interface Design Business Application Programming
 
 
 
-#### H2Tech Solutions
-*Oct. 2014 - Present*
-Free-Lancer
-Manage and Maintain websites using Content Management Systems ( WordPress ) 
-Home Automation Project using Arduino, and Raspberry Pi ( Node.js, Apache )
-Create online Legal Document Management System ( ASP.NET )
 
 #### Program Support Assistant (ADPAC)
 
@@ -100,6 +94,12 @@ data/data entry/monitor databases, monthly/periodical reports of program analyti
 of certification of least privilege access, and assure conformance with Medical Center policies and 
 procedures
 
+#### H2Tech Solutions
+*Oct. 2014 - 2016*
+Free-Lancer
+Manage and Maintain websites using Content Management Systems ( WordPress ) 
+Home Automation Project using Arduino, and Raspberry Pi ( Node.js, Apache )
+Create online Legal Document Management System ( ASP.NET )
 
 #### Software Engineer
 *RoboLabs Inc.  Pompano Beach, FL. Jan. 2014 - Sept. 2014*
@@ -107,7 +107,7 @@ procedures
 	- Written using `C#`, and `JavaScript` libraries ( `Signal R`, `jQuery` )
 	- Installed software for development (`MS Server 2012`, `MS SQL Server`, `IIS`, `ASP.NET`, `Visual Studio Express 2013`)
 	- Designed `T-SQL` database using `Visio Studio` and `MS Access`
-	- Asynchronized data coming in at 4.5 gbps
+	- Asynchronized data coming in at 4.5 GBPS
 	- Implemented `WordPress` blog
 - Optimized design for company website ( `HTML5`, `CSS3`, and `JavaScript`)
 	- Customized logos for brand development ( `Paint.NET` )
