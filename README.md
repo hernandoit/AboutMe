@@ -21,9 +21,9 @@ MS Word | Excel | Powerpoint | WPM: 55
 ### PROJECTS
 1. [Rock, Paper, Scissor](https://www.google.com)
 
-2. [Tic Tac Toe Game](https://www.google.com)
+2. [Tic Tac Toe Game](https://hernandoit.github.io/tic-tac-toe-client/)
 
-3. [Note](https://www.google.com)
+3. [Note](https://hernandoit.github.io/note-client/)
 
 3.
 4.
