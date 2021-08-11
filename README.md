@@ -58,7 +58,7 @@ procedures
 *H2Tech Solutions  Coconut Creek, FL. Oct. 2014 - Jul. 2016*
 
 - Home Automation Project using `Arduino`, and `Raspberry Pi` ( `Node.js`, `Express`, `Johnny-Five`, `Apache` )
-- Create custom reports for financial and managerial staff (SQL Server Reporting Services, SQL Management Studio)
+- Create custom reports for financial and managerial staff (`SSRS`, `SQL Management Studio`)
 
 
 #### `Software Engineer`
