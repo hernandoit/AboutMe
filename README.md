@@ -6,9 +6,9 @@ Full-Stack Software Engineer
 
 ## contact info
 [email](hernandohernandezdev@gmail.com)
-[github](@hernandoit)
-[linkedIn](hernando-hernandez)
-[portfolioLinks](my-featured-projects)
+[github](https://github.com/hernandoit?tab=repositories)
+[linkedIn](https://www.linkedin.com/in/hernando-hernandez/)
+[portfolioLinks](https://www.hernandohernandez.info)
 
 ## location
 Now developing in Central Florida; tampa area, ocala gainesville
