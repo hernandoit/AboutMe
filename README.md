@@ -1,4 +1,11 @@
 # Hernando Hernandez 
+## Full-Stack Software Engineer
+
+## contact info
+email: hernandohernandezdev@gmail.com
+github: @hernandoit
+linkedIn : hernando-hernandez
+portfolio links: my featured projects
 
 ### SKILLS
 
