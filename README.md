@@ -81,7 +81,7 @@ Create online Legal Document Management System ( ASP.NET )
 
 #### Program Support Assistant (ADPAC)
 
-*Dept. of Veterans Affairs  San Francisco, CA. — Aug. 2016 - Aug. 2017*
+*Dept. of Veterans Affairs  San Francisco, CA. Aug. 2016 - Aug. 2017*
 - Computer Asst. to the Chief of Nursing Informatics providing administrative, technical, and clerical 
 support with primary duties serving as the Automated Data Processing Application Coordinator (ADPAC)
 - Liaison between services and officers such as the Office of Information Security Officer (ISO) and 
@@ -97,14 +97,7 @@ procedures
 
 
 #### Software Engineer
-
-
-
-
-
-
-*RoboLabs Inc.  Pompano Beach, FL. 
-Jan. 2014 - Sept. 2014*
+*RoboLabs Inc.  Pompano Beach, FL. Jan. 2014 - Sept. 2014*
 - Assembled server for New York Stock Exchange (`NYSE`) financial app (`Options Flash`)
 	- Written using `C#`, and `JavaScript` libraries ( `Signal R`, `jQuery` )
 	- Installed software for development (`MS Server 2012`, `MS SQL Server`, `IIS`, `ASP.NET`, `Visual Studio Express 2013`)
@@ -113,7 +106,7 @@ Jan. 2014 - Sept. 2014*
 	- Implemented `WordPress` blog
 - Optimized design for company website ( `HTML5`, `CSS3`, and `JavaScript`)
 	- Customized logos for brand development ( `Paint.NET` )
-- Utilized quality assurance standards for Iridium GPS technologies ( Maxwell, 9575 handset, Web portal, and Android application ) using an Excel test case platform.
+- QA for Iridium GPS technologies ( Maxwell, 9575 handset, Web portal, and Android application ) using custom test cases.
 - Hard wired industrial CNC with MicroStep drivers for X, Y, and Z axis
 
 
