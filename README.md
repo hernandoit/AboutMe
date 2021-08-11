@@ -73,7 +73,8 @@ Intro to Database Web Interface Design Business Application Programming
 
 
 
-H2Tech Solutions	Oct. 2014 - Present
+#### H2Tech Solutions
+*Oct. 2014 - Present*
 Free-Lancer
 Manage and Maintain websites using Content Management Systems ( WordPress ) 
 Home Automation Project using Arduino, and Raspberry Pi ( Node.js, Apache )
