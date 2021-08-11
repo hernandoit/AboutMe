@@ -17,7 +17,7 @@ Full-Stack Software Engineer
 ### SKILLS
 HTML5 | CSS3 | Javascript | jQuery | Heroku | MongoDB | ExpressJS | ReactJS | NodeJS
 
-##### ADDITIONAL SKILLS
+# `ADDITIONAL SKILLS`
 
 MS Word | Excel | Powerpoint | Google Search | WPM: 55
 
@@ -31,12 +31,12 @@ MS Word | Excel | Powerpoint | Google Search | WPM: 55
 
 ### PROFESSIONAL EXPERIENCE
 
-#### Software Engineering Immersive
+#### `Software Engineering Immersive`
 
-*General Assemb.ly  Boston, MA. - Jun. 2021 - Sept. 2021*
+*General Assemb.ly  Boston, MA.(Remote)  Jun. 2021 - Sept. 2021*
 
-- lorem
-- -ipsum
+- I make awesome strings
+- kinda like the one above
 
 #### freelance
 
@@ -94,9 +94,9 @@ data/data entry/monitor databases, monthly/periodical reports of program analyti
 of certification of least privilege access, and assure conformance with Medical Center policies and 
 procedures
 
-#### H2Tech Solutions
-*Oct. 2014 - 2016*
-Free-Lancer
+#### `Free Lancer`
+*Oct. 2014 - Aug. 2016*
+H2Tech Solutions
 Manage and Maintain websites using Content Management Systems ( WordPress ) 
 Home Automation Project using Arduino, and Raspberry Pi ( Node.js, Apache )
 Create online Legal Document Management System ( ASP.NET )
