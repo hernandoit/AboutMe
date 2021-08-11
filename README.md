@@ -27,9 +27,12 @@ MS Word | Excel | Powerpoint | WPM: 55
 
 
 ### PROJECTS
+1. [Rock, Paper, Scissor](https://www.google.com)
 
-1. Tic Tac Toe Game
-2. Note App with Heroku server and MongoDB
+2. [Tic Tac Toe Game](https://www.google.com)
+
+3. [Note](https://www.google.com)
+
 3.
 4.
 
