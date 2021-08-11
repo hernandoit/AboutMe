@@ -57,12 +57,8 @@ procedures
 #### `Free Lancer`
 *H2Tech Solutions  Coconut Creek, FL. Oct. 2014 - Aug. 2016*
 
-- Manage and Maintain websites using Content Management Systems ( WordPress ) 
 - Home Automation Project using `Arduino`, and `Raspberry Pi` ( `Node.js`, `Express`, `Johnny-Five`, `Apache` )
 - Create custom reports for financial and managerial staff (SQL Server Reporting Services, SQL Management Studio)
-- Update pre-existing database to modify reports for SPOOL files
-- Name attributes and their types related to project
-- Create a data dictionary and an ERD diagram based on business needs
 
 
 #### `Software Engineer`
