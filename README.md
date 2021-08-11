@@ -7,6 +7,9 @@ github: @hernandoit
 linkedIn : hernando-hernandez
 portfolio links: my featured projects
 
+## location
+florida tampa area, ocala gainesville; central florida
+
 ### SKILLS
 
 HTML5 | CSS3 | Javascript | Heroku | MongoDB | ExpressJS | ReactJS | NodeJS
@@ -55,17 +58,8 @@ analyzing unusual trade options coming in at 4.5gbps
 - Hard wired industrial CNC with MicroStep X, Y, and Z axis drivers
 
 
-## contact info
-email: hernandohernandezdev@gmail.com
-github: @hernandoit
-linkedIn : hernando-hernandez
-portfolio links: my featured projects
 
-## location
-florida tampa area, ocala gainesville; central florida
 
-## headline
-Full-Stack Software Engineer
 
 ## skills
 already up there
