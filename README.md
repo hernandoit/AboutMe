@@ -99,8 +99,6 @@ procedures
 #### Software Engineer
 
 
-Assembled server hardware components (Case, Fans, CPU, NIC, Motherboard, Hard Drives)
-- 
 - Analyzed data coming in at 4.5 gbps
 - Implemented blog ( WordPress )
             - Utilized quality assurance standards for Iridium GPS technologies ( Maxwell, 9575 handset, Web portal, and Android application ) using Microsoft Excel as test case platform.
@@ -108,9 +106,8 @@ Assembled server hardware components (Case, Fans, CPU, NIC, Motherboard, Hard Dr
 
 
 *RoboLabs Inc.  Pompano Beach, FL. — Jan. 2014 - Sept. 2014*
-- Assembled server for New York Stock Exchange (NYSE) for financial application (Options Flash); 
-analyzing unusual trade options coming in at 4.5gbps
-Installed software (`BIOS Raid 1` Configuration, `MS Server 2012`, `MS SQL Server`, `IIS`, `ASP.NET`, `Visual Studio Express 2013`)
+- Assembled server for New York Stock Exchange (NYSE) financial application (`Options Flash`)
+- Installed software (`BIOS Raid 1` Configuration, `MS Server 2012`, `MS SQL Server`, `IIS`, `ASP.NET`, `Visual Studio Express 2013`)
 - Written using `ASP.NET MVC`, `C#`, and `JavaScript` libraries ( `Signal R`, `Bootstrap 3`, `j-Query` )
 - Designed `T-SQL` database using `Visio Studio` and `MS Access`
 - Optomized design for company website ( `HTML5`, `CSS3`, and `JavaScript`)
