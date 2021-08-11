@@ -19,7 +19,7 @@ MS Word | Excel | Powerpoint | WPM: 55
 
 
 ### PROJECTS
-1. [Rock, Paper, Scissor](https://www.google.com)
+1. [Rock, Paper, Scissor](https://hernandoit.github.io/rock-paper-scissor/)
 
 2. [Tic Tac Toe Game](https://hernandoit.github.io/tic-tac-toe-client/)
 
