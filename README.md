@@ -38,15 +38,15 @@ HTML5 | CSS3 | Javascript | jQuery | Heroku | MongoDB | ExpressJS | ReactJS | No
 - kinda like the one above
 - 
 
-#### `Program Support Assistant (ADPAC)`
+#### `Program Support Assistant` (ADPAC)
 
 *Dept. of Veterans Affairs  San Francisco, CA. Aug. 2016 - Aug. 2017*
 - Computer Asst. to the Chief of Nursing Informatics providing administrative, technical, and clerical 
-support with primary duties serving as the Automated Data Processing Application Coordinator (ADPAC)
-- Liaison between services and officers such as the Office of Information Security Officer (ISO) and 
-the Office of Information and Technology (OI&T)
-- Surveyed IT equipment/software/telecommunication needs, and coordinate replacement logistics to OI&T
-- Coordinated administrative functions of Nursing service’s new employee orientation (NEO); such as 
+support with primary duties serving as the `Automated Data Processing Application Coordinator` (ADPAC)
+- Liaison between services and officers such as the Office of Information Security Officer (`ISO`) and 
+the Office of Information and Technology (`OI&T`)
+- Surveyed IT equipment/software/telecommunication needs, and coordinate replacement logistics to `OI&T`
+- Coordinated administrative functions of Nursing service’s new employee orientation (`NEO`); such as 
 requesting new user access and menu modifications
 - Provided IT application and network security support to Nursing Education department; such as 
 coordinate program installs, evaluation of program issues, training new/current employees, collect
