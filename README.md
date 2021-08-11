@@ -5,18 +5,19 @@
 HTML5 | CSS3 | Javascript 
 MongoDB | ExpressJS | ReactJS | NodeJS
 
+
+### PROJECTS
+
+1. Tic Tac Toe Game
+2. Note App with Heroku server and MongoDB
+3.
+4.
+
 ### EDUCATION
 
 General Assemb.ly — Software Engineering Immersive, 2021
 
 DeVry University — B.S. Computer Information Systems, 2014
-
-### PROJECTS
-
-1.
-2.
-3.
-4.
 
 ### PROFESSIONAL EXPERIENCE
 
