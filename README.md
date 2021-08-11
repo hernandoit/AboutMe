@@ -69,5 +69,5 @@ DeVry University — B.S. Computer Information Systems, 2014
 
 ### INTERESTS
 
-Touge | F1
+[Touge](https://en.wikipedia.org/wiki/T%C5%8Dge) | [F1](https://www.ferrari.com/en-EN/formula1/carlos-sainz)
 
