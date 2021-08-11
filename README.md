@@ -6,7 +6,7 @@ Full-Stack Software Engineer
 
 ### CONTACT INFO
 
-#### `Direct`
+#### `Direct Messaging`
 [Email] hernandohernandezdev@gmail.com 
 
 #### `Social Media`
@@ -78,7 +78,7 @@ Intro to Database Web Interface Design Business Application Programming
 
 
 
-#### Program Support Assistant (ADPAC)
+#### `Program Support Assistant (ADPAC)`
 
 *Dept. of Veterans Affairs  San Francisco, CA. Aug. 2016 - Aug. 2017*
 - Computer Asst. to the Chief of Nursing Informatics providing administrative, technical, and clerical 
@@ -101,7 +101,7 @@ Manage and Maintain websites using Content Management Systems ( WordPress )
 Home Automation Project using Arduino, and Raspberry Pi ( Node.js, Apache )
 Create online Legal Document Management System ( ASP.NET )
 
-#### Software Engineer
+#### `Software Engineer`
 *RoboLabs Inc.  Pompano Beach, FL. Jan. 2014 - Sept. 2014*
 - Assembled server for New York Stock Exchange (`NYSE`) financial app (`Options Flash`)
 	- Written using `C#`, and `JavaScript` libraries ( `Signal R`, `jQuery` )
