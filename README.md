@@ -6,7 +6,7 @@ Full-Stack Software Engineer
 
 ### CONTACT INFO
 [Email](hernandohernandezdev@gmail.com) |
-[GitHub](https://github.com/hernandoit?tab=repositories) |
+[GitHub](https://github.com/hernandoit) |
 [LinkedIn](https://www.linkedin.com/in/hernando-hernandez/) |
 [Portfolio](https://www.hernandohernandez.info)
 
