@@ -63,18 +63,6 @@ procedures
 - Update pre-existing database to modify reports for SPOOL files
 - Name attributes and their types related to project
 - Create a data dictionary and an ERD diagram based on business needs
-- Utilize the Create, Insert, Drop, Modify, and Update statements to modify an existing database
-- Create Views and new tables to add to the current database
-- Enter both simple and complex sub queries to access different tables
-- Use both inner and outer joins to display table contents for reports
-- Trouble shot operating system to identify missing system drivers, and install such drivers
-- Enter start menu to review system properties to view drivers that are potentially missing
-- Install missing drivers in order to ensure system functionality
-- Test equipment to ensure operating system registered the missing components
-- Create new files for operating systems via prompt command line 1/2013 – 3/2013
-- Open command prompt line and typed in destination to allow entrance into a specified file
-- Create a new sub-directory in file in order to create a new registry
-- Move data to another directory by cutting/deleting file and pasted it into a new registry to allow user to have access to information in newly created directory
 
 
 #### `Software Engineer`
