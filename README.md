@@ -99,12 +99,12 @@ procedures
 #### Software Engineer
 
 
-Assembling server hardware components (Case, Fans, CPU, NIC, Motherboard, Hard Drives) for financial application
-	•	Install software (BIOS Raid 1 Configuration, Microsoft Server 2012, MS SQL Server, IIS, ASP.NET, Visual Studio Express 2013) components for financial application
-	•	Provide object-oriented programming and design support for financial application; written using ASP.NET MVC, C#, and JavaScript using libraries ( Signal R, Bootstrap, j-Query )
-	•	Design and Create Database (T-SQL using Visio Studio 2013 and Microsoft Access 2013)
-	•	Responsible for Data Analysis coming in at 4.5 gbps (ASP.NET MVC, C#, T-SQL)
-	•	Implement website for blogging ( WordPress )
+Assembled server hardware components (Case, Fans, CPU, NIC, Motherboard, Hard Drives)
+- Installed software (BIOS Raid 1 Configuration, Microsoft Server 2012, MS SQL Server, IIS, ASP.NET, Visual Studio Express 2013)
+- Written using `ASP.NET MVC`, `C#`, and `JavaScript` libraries ( `Signal R`, `Bootstrap 3`, `j-Query` )
+- Designed `T-SQL` database using `Visio Studio` and `MS Access`
+- Analyzed data coming in at 4.5 gbps (ASP.NET MVC, C#, T-SQL)
+- Implemented blog ( WordPress )
 	•	Utilize quality assurance standards for Iridium GPS technologies ( Maxwell, 9575 handset, Web portal, and Android application ) using Microsoft Excel as test case platform.
 	•	Modify existing design for company website ( HTML5, CSS3, and JavaScript )
 	•	Create custom logos for brand development ( Paint.NET )
