@@ -29,7 +29,7 @@ MS Word | Excel | Powerpoint | WPM: 55
 
 #### Software Engineering Immersive
 
-*General Assemb.ly  Boston, MA. - Jun. 2021 - Sept. 2021
+*General Assemb.ly  Boston, MA. - Jun. 2021 - Sept. 2021*
 
 - lorem
 - -ipsum
