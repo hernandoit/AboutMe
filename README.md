@@ -8,9 +8,13 @@ linkedIn : hernando-hernandez
 portfolio links: my featured projects
 
 ## location
-florida tampa area, ocala gainesville; central florida
+Now developing in Central Florida; tampa area, ocala gainesville
 
 ### SKILLS
+>
+ This should be prominent and easy to find on your resume.
+List all of the skills and technologies you learned at GA, as well as your additional hard skills. You can break this into sections to indicate methodologies vs. technologies, or have an “additional skills” list of less relevant items. You can also indicate which skills are a work-in-progress.
+
 
 HTML5 | CSS3 | Javascript | Heroku | MongoDB | ExpressJS | ReactJS | NodeJS
 
@@ -67,7 +71,4 @@ DeVry University — B.S. Computer Information Systems, 2014
 ### INTERESTS
 
 
-
- This should be prominent and easy to find on your resume.
-List all of the skills and technologies you learned at GA, as well as your additional hard skills. You can break this into sections to indicate methodologies vs. technologies, or have an “additional skills” list of less relevant items. You can also indicate which skills are a work-in-progress.
 
