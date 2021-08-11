@@ -103,7 +103,8 @@ procedures
 
 
 
-*RoboLabs Inc.  Pompano Beach, FL. — Jan. 2014 - Sept. 2014*
+*RoboLabs Inc.  Pompano Beach, FL. 
+Jan. 2014 - Sept. 2014*
 - Assembled server for New York Stock Exchange (`NYSE`) financial app (`Options Flash`)
 	- Written using `C#`, and `JavaScript` libraries ( `Signal R`, `jQuery` )
 	- Installed software for development (`MS Server 2012`, `MS SQL Server`, `IIS`, `ASP.NET`, `Visual Studio Express 2013`)
@@ -118,9 +119,9 @@ procedures
 
 ### EDUCATION
 
-**General Assemb.ly** — Software Engineering Immersive, 2021
+**General Assemb.ly** — *Software Engineering Immersive, 2021*
 
-**DeVry University** — B.S. Computer Information Systems, 2014
+**DeVry University** — *B.S. Computer Information Systems, 2014*
 
 
 ### INTERESTS
