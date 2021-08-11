@@ -25,14 +25,14 @@ MS Word | Excel | Powerpoint | WPM: 55
 
 3. [Note](https://hernandoit.github.io/note-client/)
 
-3.
-4.
-
-
 ### PROFESSIONAL EXPERIENCE
 
 #### Software Engineering Immersive
+
 *General Assemb.ly  Boston, MA. - Jun. 2021 - Sept. 2021
+
+- lorem
+- -ipsum
 
 #### Program Support Assistant (ADPAC)
 
