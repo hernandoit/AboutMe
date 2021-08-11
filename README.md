@@ -32,7 +32,7 @@ MS Word | Excel | Powerpoint | WPM: 55
 ### PROFESSIONAL EXPERIENCE
 
 #### Software Engineering Immersive
-
+*General Assemb.ly  Boston, MA. - Jun. 2021 - Sept. 2021
 
 #### Program Support Assistant (ADPAC)
 
@@ -69,5 +69,5 @@ DeVry University — B.S. Computer Information Systems, 2014
 
 ### INTERESTS
 
-
+Touge | F1
 
