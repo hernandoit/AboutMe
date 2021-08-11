@@ -6,7 +6,7 @@ Full-Stack Software Engineer
 
 ### CONTACT INFO
 
-#### `Direct Messaging`
+#### `Direct Message`
 [Email] hernandohernandezdev@gmail.com 
 
 #### `Social Media`
@@ -19,7 +19,7 @@ HTML5 | CSS3 | Javascript | jQuery | Heroku | MongoDB | ExpressJS | ReactJS | No
 
 # `ADDITIONAL SKILLS`
 
-MS Word | Excel | Powerpoint | Google Search | WPM: 55
+# MS Word | Excel | Powerpoint | Google Search | WPM: 55
 
 
 ### PROJECTS
@@ -32,13 +32,39 @@ MS Word | Excel | Powerpoint | Google Search | WPM: 55
 ### PROFESSIONAL EXPERIENCE
 
 #### `Software Engineering Immersive`
-
 *General Assemb.ly  Boston, MA.(Remote)  Jun. 2021 - Sept. 2021*
 
 - I make awesome strings
 - kinda like the one above
 
-#### freelance
+
+
+
+
+
+#### `Program Support Assistant (ADPAC)`
+
+*Dept. of Veterans Affairs  San Francisco, CA. Aug. 2016 - Aug. 2017*
+- Computer Asst. to the Chief of Nursing Informatics providing administrative, technical, and clerical 
+support with primary duties serving as the Automated Data Processing Application Coordinator (ADPAC)
+- Liaison between services and officers such as the Office of Information Security Officer (ISO) and 
+the Office of Information and Technology (OI&T)
+- Surveyed IT equipment/software/telecommunication needs, and coordinate replacement logistics to OI&T
+- Coordinated administrative functions of Nursing service’s new employee orientation (NEO); such as 
+requesting new user access and menu modifications
+- Provided IT application and network security support to Nursing Education department; such as 
+coordinate program installs, evaluation of program issues, training new/current employees, collect
+data/data entry/monitor databases, monthly/periodical reports of program analytics, quarterly reviews 
+of certification of least privilege access, and assure conformance with Medical Center policies and 
+procedures
+
+#### `Free Lancer`
+*Oct. 2014 - Aug. 2016*
+H2Tech Solutions
+Manage and Maintain websites using Content Management Systems ( WordPress ) 
+Home Automation Project using Arduino, and Raspberry Pi ( Node.js, Apache )
+Create online Legal Document Management System ( ASP.NET )
+
 
 Web Developer	Oct. 2014 - Aug. 2016
 Unpaid Experience
@@ -71,35 +97,6 @@ Unpaid Experience
 	•	Create a new sub-directory in file in order to create a new registry
 	•	Move data to another directory by cutting/deleting file and pasted it into a new registry to allow user to have access to information in newly created directory
 
-Structured Analysis & Design Object Oriented Programming Architecture & Operating Systems
-Systems Logic & Design Computer Applications for Business Intro Business & Technology
-Intro to Database Web Interface Design Business Application Programming
-
-
-
-
-#### `Program Support Assistant (ADPAC)`
-
-*Dept. of Veterans Affairs  San Francisco, CA. Aug. 2016 - Aug. 2017*
-- Computer Asst. to the Chief of Nursing Informatics providing administrative, technical, and clerical 
-support with primary duties serving as the Automated Data Processing Application Coordinator (ADPAC)
-- Liaison between services and officers such as the Office of Information Security Officer (ISO) and 
-the Office of Information and Technology (OI&T)
-- Surveyed IT equipment/software/telecommunication needs, and coordinate replacement logistics to OI&T
-- Coordinated administrative functions of Nursing service’s new employee orientation (NEO); such as 
-requesting new user access and menu modifications
-- Provided IT application and network security support to Nursing Education department; such as 
-coordinate program installs, evaluation of program issues, training new/current employees, collect
-data/data entry/monitor databases, monthly/periodical reports of program analytics, quarterly reviews 
-of certification of least privilege access, and assure conformance with Medical Center policies and 
-procedures
-
-#### `Free Lancer`
-*Oct. 2014 - Aug. 2016*
-H2Tech Solutions
-Manage and Maintain websites using Content Management Systems ( WordPress ) 
-Home Automation Project using Arduino, and Raspberry Pi ( Node.js, Apache )
-Create online Legal Document Management System ( ASP.NET )
 
 #### `Software Engineer`
 *RoboLabs Inc.  Pompano Beach, FL. Jan. 2014 - Sept. 2014*
