@@ -58,21 +58,8 @@ procedures
 *H2Tech Solutions  Coconut Creek, FL. Oct. 2014 - Aug. 2016*
 
 - Manage and Maintain websites using Content Management Systems ( WordPress ) 
-- Home Automation Project using Arduino, and Raspberry Pi ( Node.js, Apache )
-- Create online Legal Document Management System ( ASP.NET )
-- Manage and Maintain websites using Content Management Systems ( WordPress, Drupal ) 
-- Integrate templates for front-end UI compatibility ( Ruby on Rails, Asp.net )
-- Home Automation Project using Arduino, and Raspberry Pi ( Node.js [Express, Jonny-Five], Apache )
-- Develop and implement complex Internet and Intranet applications on multiple platforms ( Linux, Unix, Windows, System i, z/OS ) using Visual Studio, Eclipse, Zen Studio, Ruby on Rails
-- Diagnose and troubleshoot UNIX/ Windows processing problems and applied solutions to increase company efficiency ( SQL Management Studio )
+- Home Automation Project using `Arduino`, and `Raspberry Pi` ( `Node.js`, `Express`, `Johnny-Five`, `Apache` )
 - Create custom reports for financial and managerial staff (SQL Server Reporting Services, SQL Management Studio)
-- Create business based applications using Java 
-- Create methods using inheritance such as super class, and constructors
-- Utilize JDialogue, JTextField, JLabel, JTextArea, JFrame, JPanel , Applet and JButton to create both console and app based applications
-- Modifying pre-existing code to update for implementation of new systems
-- Create user’s Manual for created applications
-- Create Database using SQL*PLUS 
-- Create database using SELECT, CREATE, INSERT, ALTER, UPDATE, VIEW, commands
 - Update pre-existing database to modify reports for SPOOL files
 - Name attributes and their types related to project
 - Create a data dictionary and an ERD diagram based on business needs
