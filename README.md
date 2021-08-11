@@ -15,7 +15,7 @@ HTML5 | CSS3 | Javascript | jQuery | Heroku | MongoDB | ExpressJS | ReactJS | No
 
 ##### ADDITIONAL SKILLS
 
-MS Word | Excel | Powerpoint | WPM: 55
+MS Word | Excel | Powerpoint | Google Search | WPM: 55
 
 
 ### PROJECTS
