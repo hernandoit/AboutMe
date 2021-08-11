@@ -105,7 +105,7 @@ procedures
 - Optimized design for company website ( `HTML5`, `CSS3`, and `JavaScript`)
 	- Customized logos for brand development ( `Paint.NET` )
 - QA for Iridium GPS technologies ( Maxwell, 9575 handset, Web portal, and Android application ) using custom test cases.
-- Hard wired industrial CNC with MicroStep drivers for X, Y, and Z axis
+- Hard wired industrial `CNC` with MicroStep drivers for X, Y, and Z axis
 
 
 ### EDUCATION
