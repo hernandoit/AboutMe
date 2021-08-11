@@ -19,7 +19,7 @@ HTML5 | CSS3 | Javascript | jQuery | Heroku | MongoDB | ExpressJS | ReactJS | No
 
 # `ADDITIONAL SKILLS`
 
-# MS Word | Excel | Powerpoint | Google Search | WPM: 55
+# MS Word | Excel | Powerpoint | Outlook | Google Search | WPM: 55
 
 
 ### PROJECTS
@@ -59,43 +59,39 @@ of certification of least privilege access, and assure conformance with Medical 
 procedures
 
 #### `Free Lancer`
-*Oct. 2014 - Aug. 2016*
-H2Tech Solutions
-Manage and Maintain websites using Content Management Systems ( WordPress ) 
-Home Automation Project using Arduino, and Raspberry Pi ( Node.js, Apache )
-Create online Legal Document Management System ( ASP.NET )
+*H2Tech Solutions  Oct. 2014 - Aug. 2016*
 
-
-Web Developer	Oct. 2014 - Aug. 2016
-Unpaid Experience
-	•	Manage and Maintain websites using Content Management Systems ( WordPress, Drupal ) 
-	•	Integrate templates for front-end UI compatibility ( Ruby on Rails, Asp.net )
-	•	Home Automation Project using Arduino, and Raspberry Pi ( Node.js [Express, Jonny-Five], Apache )
-	•	Develop and implement complex Internet and Intranet applications on multiple platforms ( Linux, Unix, Windows, System i, z/OS ) using Visual Studio, Eclipse, Zen Studio, Ruby on Rails
-	•	Diagnose and troubleshoot UNIX/ Windows processing problems and applied solutions to increase company efficiency ( SQL Management Studio )
-	•	Create custom reports for financial and managerial staff (SQL Server Reporting Services, SQL Management Studio)
-	•	Create business based applications using Java 
-	•	Create methods using inheritance such as super class, and constructors
-	•	Utilize JDialogue, JTextField, JLabel, JTextArea, JFrame, JPanel , Applet and JButton to create both console and app based applications
-	•	Modifying pre-existing code to update for implementation of new systems
-	•	Create user’s Manual for created applications
-	•	Create Database using SQL*PLUS 
-	•	Create database using SELECT, CREATE, INSERT, ALTER, UPDATE, VIEW, commands
-	•	Update pre-existing database to modify reports for SPOOL files
-	•	Name attributes and their types related to project
-	•	Create a data dictionary and an ERD diagram based on business needs
-	•	Utilize the Create, Insert, Drop, Modify, and Update statements to modify an existing database
-	•	Create Views and new tables to add to the current database
-	•	Enter both simple and complex sub queries to access different tables
-	•	Use both inner and outer joins to display table contents for reports
-	•	Trouble shot operating system to identify missing system drivers, and install such drivers
-	•	Enter start menu to review system properties to view drivers that are potentially missing
-	•	Install missing drivers in order to ensure system functionality
-	•	Test equipment to ensure operating system registered the missing components
-	•	Create new files for operating systems via prompt command line 1/2013 – 3/2013
-	•	Open command prompt line and typed in destination to allow entrance into a specified file
-	•	Create a new sub-directory in file in order to create a new registry
-	•	Move data to another directory by cutting/deleting file and pasted it into a new registry to allow user to have access to information in newly created directory
+- Manage and Maintain websites using Content Management Systems ( WordPress ) 
+- Home Automation Project using Arduino, and Raspberry Pi ( Node.js, Apache )
+- Create online Legal Document Management System ( ASP.NET )
+- Manage and Maintain websites using Content Management Systems ( WordPress, Drupal ) 
+- Integrate templates for front-end UI compatibility ( Ruby on Rails, Asp.net )
+- Home Automation Project using Arduino, and Raspberry Pi ( Node.js [Express, Jonny-Five], Apache )
+- Develop and implement complex Internet and Intranet applications on multiple platforms ( Linux, Unix, Windows, System i, z/OS ) using Visual Studio, Eclipse, Zen Studio, Ruby on Rails
+- Diagnose and troubleshoot UNIX/ Windows processing problems and applied solutions to increase company efficiency ( SQL Management Studio )
+- Create custom reports for financial and managerial staff (SQL Server Reporting Services, SQL Management Studio)
+- Create business based applications using Java 
+- Create methods using inheritance such as super class, and constructors
+- Utilize JDialogue, JTextField, JLabel, JTextArea, JFrame, JPanel , Applet and JButton to create both console and app based applications
+- Modifying pre-existing code to update for implementation of new systems
+- Create user’s Manual for created applications
+- Create Database using SQL*PLUS 
+- Create database using SELECT, CREATE, INSERT, ALTER, UPDATE, VIEW, commands
+- Update pre-existing database to modify reports for SPOOL files
+- Name attributes and their types related to project
+- Create a data dictionary and an ERD diagram based on business needs
+- Utilize the Create, Insert, Drop, Modify, and Update statements to modify an existing database
+- Create Views and new tables to add to the current database
+- Enter both simple and complex sub queries to access different tables
+- Use both inner and outer joins to display table contents for reports
+- Trouble shot operating system to identify missing system drivers, and install such drivers
+- Enter start menu to review system properties to view drivers that are potentially missing
+- Install missing drivers in order to ensure system functionality
+- Test equipment to ensure operating system registered the missing components
+- Create new files for operating systems via prompt command line 1/2013 – 3/2013
+- Open command prompt line and typed in destination to allow entrance into a specified file
+- Create a new sub-directory in file in order to create a new registry
+- Move data to another directory by cutting/deleting file and pasted it into a new registry to allow user to have access to information in newly created directory
 
 
 #### `Software Engineer`
