@@ -14,6 +14,10 @@ florida tampa area, ocala gainesville; central florida
 
 HTML5 | CSS3 | Javascript | Heroku | MongoDB | ExpressJS | ReactJS | NodeJS
 
+### ADDITIONAL SKILLS
+
+MS Word | Excel | Powerpoint | WPM: 55
+
 
 ### PROJECTS
 
@@ -22,11 +26,6 @@ HTML5 | CSS3 | Javascript | Heroku | MongoDB | ExpressJS | ReactJS | NodeJS
 3.
 4.
 
-### EDUCATION
-
-General Assemb.ly — Software Engineering Immersive, 2021
-
-DeVry University — B.S. Computer Information Systems, 2014
 
 ### PROFESSIONAL EXPERIENCE
 
@@ -58,15 +57,17 @@ analyzing unusual trade options coming in at 4.5gbps
 - Hard wired industrial CNC with MicroStep X, Y, and Z axis drivers
 
 
+### EDUCATION
+
+General Assemb.ly — Software Engineering Immersive, 2021
+
+DeVry University — B.S. Computer Information Systems, 2014
 
 
+### INTERESTS
 
-## skills
-already up there
+
 
  This should be prominent and easy to find on your resume.
 List all of the skills and technologies you learned at GA, as well as your additional hard skills. You can break this into sections to indicate methodologies vs. technologies, or have an “additional skills” list of less relevant items. You can also indicate which skills are a work-in-progress.
 
-## experience
-## education
-## interests
