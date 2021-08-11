@@ -20,6 +20,8 @@ DeVry University — B.S. Computer Information Systems, 2014
 
 ### PROFESSIONAL EXPERIENCE
 
+#### Software Engineering Immersive
+
 #### Program Support Assistant (ADPAC)
 
 *Dept. of Veterans Affairs  San Francisco, CA. — Aug. 2016 - Aug. 2017*
@@ -61,5 +63,9 @@ Full-Stack Software Engineer
 ## skills
 already up there
 
-## experience
+ This should be prominent and easy to find on your resume.
+List all of the skills and technologies you learned at GA, as well as your additional hard skills. You can break this into sections to indicate methodologies vs. technologies, or have an “additional skills” list of less relevant items. You can also indicate which skills are a work-in-progress.
 
+## experience
+## education
+## interests
