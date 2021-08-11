@@ -100,20 +100,20 @@ procedures
 
 
 
-            - Utilized quality assurance standards for Iridium GPS technologies ( Maxwell, 9575 handset, Web portal, and Android application ) using Microsoft Excel as test case platform.
 
 
 
 *RoboLabs Inc.  Pompano Beach, FL. — Jan. 2014 - Sept. 2014*
-- Assembled server for New York Stock Exchange (NYSE) financial application (`Options Flash`)
-	- Written using `ASP.NET MVC`, `C#`, and `JavaScript` libraries ( `Signal R`, `Bootstrap 3`, `j-Query` )
-	- Installed software (`BIOS Raid 1` Configuration, `MS Server 2012`, `MS SQL Server`, `IIS`, `ASP.NET`, `Visual Studio Express 2013`)
+- Assembled server for New York Stock Exchange (`NYSE`) financial app (`Options Flash`)
+	- Written with `ASP.NET MVC`, `C#`, and `JavaScript` libraries ( `Signal R`, `jQuery` )
+	- Installed software for development (`MS Server 2012`, `MS SQL Server`, `IIS`, `ASP.NET`, `Visual Studio Express 2013`)
 	- Designed `T-SQL` database using `Visio Studio` and `MS Access`
 	- Analyzed data coming in at 4.5 gbps
-	- Implemented blog ( WordPress )
-- Optomized design for company website ( `HTML5`, `CSS3`, and `JavaScript`)
+	- Implemented `WordPress` blog
+- Optimized design for company website ( `HTML5`, `CSS3`, and `JavaScript`)
 	- Customized logos for brand development ( `Paint.NET` )
 - Utilized quality assurance standards for Iridium GPS technologies using MS Excel as test case platform
+- Utilized quality assurance standards for Iridium GPS technologies ( Maxwell, 9575 handset, Web portal, and Android application ) using Microsoft Excel as test case platform.
 - Hard wired and assembled industrial CNC with MicroStep drivers for X, Y, and Z axis
 
 
