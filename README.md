@@ -15,7 +15,7 @@ Full-Stack Software Engineer
 [Portfolio](https://www.hernandohernandez.info)
 
 ### `SKILLS`
-HTML5 | CSS3 | Javascript | jQuery | Heroku | MongoDB | ExpressJS | ReactJS | NodeJS
+HTML5 | CSS3 | Javascript | jQuery | Heroku | MongoDB | ExpressJS | ReactJS | NodeJS | Python | Django
 
 ### `ADDITIONAL SKILLS`
 MS Word | Excel | Powerpoint | Outlook | Google Search | WPM: 55
