@@ -33,9 +33,9 @@ MS Word | Excel | Powerpoint | Outlook | Google Search | WPM: 55
 #### `Software Engineering Immersive`
 *General Assemb.ly  Boston, MA.(Remote)  Jun. 2021 - Sept. 2021*
 
-- I make awesome strings
-- kinda like the one above
-- 
+- Created multiple projects using Vanilla JS, frontend frame works (React), and full stack frameworks (Django, Python)
+- Developed apps using MERN stack (MongoDB, Express, React, Node)
+- Handled third party and self created API request using RESTful methodologies.
 
 #### `Program Support Assistant` (ADPAC)
 
