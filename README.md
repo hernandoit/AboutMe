@@ -17,10 +17,6 @@ Full-Stack Software Engineer
 ### `SKILLS`
 HTML5 | CSS3 | Javascript | jQuery | Heroku | MongoDB | ExpressJS | ReactJS | NodeJS | Python | Django
 
-### `ADDITIONAL SKILLS`
-MS Word | Excel | Powerpoint | Outlook | Google Search | WPM: 55
-
-
 ### PROJECTS
 1. [Rock, Paper, Scissor](https://hernandoit.github.io/rock-paper-scissor/)
 
