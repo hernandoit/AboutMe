@@ -24,6 +24,8 @@ HTML5 | CSS3 | Javascript | jQuery | Heroku | MongoDB | ExpressJS | ReactJS | No
 
 3. [Note](https://hernandoit.github.io/note-client/)
 
+4. [Inventory](https://hernandoit.github.io/inventory-client/)
+
 ### PROFESSIONAL EXPERIENCE
 
 #### `Software Engineering Immersive`
